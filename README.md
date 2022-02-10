@@ -73,3 +73,11 @@ void main()
     }
    
 }
+enter c:1
+enter k:245
+enter c:3
+245enter c:2 
+245enter c:4
+
+
+
